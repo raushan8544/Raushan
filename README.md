@@ -1,2 +1,2 @@
 # Raushan
-This is my first code on GitHub
+This is my first to the code on GitHub(Git)
